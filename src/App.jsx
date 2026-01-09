@@ -6,6 +6,7 @@ import Dashboard from "./Pages/Dashboard";
 import Profile from "./Pages/Profile";
 import ProtectedRoute from "./components/ProtectedRoute/ProtectedRoute";
 import AuthProvider from "./Context/AuthContext";
+// import "./App.css";
 
 const App = () => {
   return (

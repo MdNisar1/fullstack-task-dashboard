@@ -1,5 +1,5 @@
 import { useState } from "react";
-import TaskForm from "../components/TaskForm";
+import TaskForm from "../components/TaskForm/TaskForm";
 
 const Dashboard = () => {
   const [tasks, setTasks] = useState([]);
